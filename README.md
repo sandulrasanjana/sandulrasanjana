@@ -4,7 +4,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Sandul..</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Sandul Rasanjana..</h1></summary>
   </ul>
 </div>
 
