@@ -50,7 +50,7 @@
   ## 📚 &nbsp;Currently studying
 
   - Figma
-  - reaact
+  - react
   - Front-end Development
   - Mobile app Development
 
