@@ -28,9 +28,9 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚  I'm Information System student at **SUS**L.
+  - 📚  I'm an Information System undergraduate at **SUS**L.
 
-  -  ☁️ I've been interest in **Full-Stack Development.**
+  -  ☁️ I'm interested in **Full-Stack Development.**
 
   - 🌱  I’m currently learning **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
 
