@@ -32,7 +32,7 @@
 
   -  ☁️ I'm interested in **Full-Stack Development.**
 
-  - 🌱  I’m currently learning **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**,**Linux**,**Git**,**Docker**,**CI/CD**.
+  - 🌱  I’m currently learning **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter**,**Python**,**Linux**,**Git**,**Docker** and **CI/CD**.
 
   - 💬 Ask me about **any technology**.
 
