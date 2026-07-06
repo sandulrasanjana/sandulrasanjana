@@ -30,7 +30,7 @@
 
   - 📚  I'm an Information System undergraduate at **SUS**L.
 
-  -  ☁️ I'm interested in **Full-Stack Development.**
+  -  ☁️ I'm interested in **Linux & DevOps Engeering**
 
   - 🌱  I’m currently learning **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter**,**Python**,**Linux**,**Git**,**Docker** and **CI/CD**.
 
