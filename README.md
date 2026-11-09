@@ -1,133 +1,73 @@
-
-<div>
-🔴🟡🟢
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Sandul Rasanjana..</h1></summary>
-  </ul>
-</div>
-
-<br>
-
-</div>
-
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandulrasanjana&color=blueviolet" alt="Profile views" />
-  &nbsp;
-  <a href="https://github.com/sandulrasanjana?tab=followers">
-    <img src="https://img.shields.io/github/followers/sandulrasanjana?style=social" alt="Followers" />
-  </a>
-</p>
-
-
-<div>
-
-  ## 🧭 &nbsp;About Me
-
-  - 📚  I'm an Information System undergraduate at **SUS**L.
-
-  -  ☁️ I'm interested in **Linux & DevOps Engeering**
-
-  - 🌱  I’m currently learning **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter**,**Python**,**Linux**,**Git**,**Docker** and **CI/CD**.
-
-  - 💬 Ask me about **any technology**.
-
-
-
-  <br>
-  
-
-</div>
-
-
-
-<div>
-
-  ## 📚 &nbsp;Currently studying
-
-  - Figma
-  - react
-  - Front-end Development
-  - Mobile app Development
-
-</div>
-<br/>
-<br/>
-
-<div>
-
-  ## 🛠️ &nbsp;My Tech Stacks
-
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
-  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
-  ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=flat&logo=dart)&nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=flat&logo=flutter)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-</div>
-<br/>
-<br/>
-
-<div>
-
-  ## 📊 &nbsp;My activities
-  <a href="https://github.com/sandulrasanjana">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=sandulrasanjana&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/sandulrasanjana">
-    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandulrasanjana&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-</div>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
-
-<div id="user-content-toc">
-  <ul >
-    <summary><h2 style="display: inline-block">📫Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/sandul-rasanjana-818907316/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/sandulrasanjana" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/sandulrasanjana/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=Hi%20there,%20I'm%20Sandul%20Rasanjana%20👋&fontSize=38&fontAlignY=38&desc=Aspiring%20DevOps%20%7C%20Quality%20Assurance%20%7C%20Cloud-Native%20Automation&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
+
+  <p align="center">
+    <a href="https://sandulrasanjana.me"><img src="https://img.shields.io/badge/Portfolio-sandulrasanjana.me-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/sandulrasanjana"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/sandulrasanjana"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <img src="https://komarev.com/ghpvc/?username=sandulrasanjana&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  </p>
 </div>
 
+---
 
+### 🚀 About Me
 
+I am an **Information Systems Undergraduate at Sabaragamuwa University of Sri Lanka**, focused on bridging the gap between **Software Quality Assurance** and **DevOps Engineering**. 
+
+My core philosophy centers around **Shift-Left Testing and Infrastructure Reliability**: building automated CI/CD pipelines, containerized environments, and test validation layers that catch issues before production.
+
+- 🎯 **Target Roles:** Quality Assurance Intern / DevOps Engineering Intern
+- 🐧 **Linux & System Administration:** Certified by The Linux Foundation (*Linux for Developers*)
+- ⚙️ **Key Focus:** CI/CD Automation, Automated Testing, Container Security, System Monitoring
+- 🛠️ **Current Building:** Scalable cloud-native operations and lightweight CLI observability tools
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<table>
+  <tr>
+    <td width="25%" valign="top"><b>DevOps & Cloud</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>QA & Security</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Manual_Testing-4A154B?style=flat-square&logo=checkmarx&logoColor=white" />
+      <img src="https://img.shields.io/badge/API_Testing_(Postman)-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Test_Automation-00C7B7?style=flat-square&logo=testing-library&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vulnerability_Scanning_(Trivy)-0175C2?style=flat-square&logo=aquasec&logoColor=white" />
+      <img src="https://img.shields.io/badge/Test_Case_Design-232F3E?style=flat-square&logo=jira&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Web & Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📌 Featured Projects
